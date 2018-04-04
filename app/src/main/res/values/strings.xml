@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework4</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="edit_address">Enter an address</string>
+    <string name="button_enter">Enter</string>
+    <string name="error">Error</string>
+</resources>
